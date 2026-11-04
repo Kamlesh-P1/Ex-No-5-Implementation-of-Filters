@@ -5,6 +5,7 @@
 
 # **Register Number:** 212225240067 
 
+
 ## Aim
 
 To implement filters for smoothing and sharpening images in the spatial domain.
