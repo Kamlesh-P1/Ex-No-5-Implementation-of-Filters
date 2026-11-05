@@ -36,9 +36,9 @@ End the program.
 
 ## Program
 
-**Developed By:** SHRIVARSHAN P G
+**Developed By:** KAMLESH P
 
-**Register Number:** 212225240146
+**Register Number:** 212225240067
 
 ## 1. Smoothing Filters
 
